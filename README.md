@@ -4,6 +4,7 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 colab python
 # Program
+# IDEAL SAMPLING #
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
